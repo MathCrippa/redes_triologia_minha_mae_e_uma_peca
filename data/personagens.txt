@@ -1,0 +1,70 @@
+# DICIONARIO DE PERSONAGENS (v0.3 - filmes 1, 2 e 3)
+# Formato: ID;nome_canonico;papel(Para identificar mais facilmente);filmes;
+
+# --- Personagens do filme 1 ---
+DonaHerminia;Dona Herminia;mae (protagonista);F1,F2,F3;
+Marcelina;Marcelina;filha;F1,F2,F3;
+Juliano;Juliano;filho;F1,F2,F3;
+Garibe;Garibe;filho mais velho;F1,F2;
+CarlosAlberto;Carlos Alberto;pai (ex-marido de Herminia);F1,F2,F3;
+Andreia;Andreia;esposa de Garibe;F1;
+Soraia;Soraia;madrasta (atual de Carlos Alberto);F1;
+TiaZelia;Tia Zelia;tia;F1,F2;
+Wesley;Wesley;porteiro;F1;
+DonaJonacir;Dona Jonacir;sindica;F1;
+Valderia;Valderia;empregada;F1,F2,F3;
+Tiago;Tiago;namorado de Juliano;F1;
+DonaLurdes;Dona Lurdes;vizinha/conhecida;F1,F2,F3;
+MoradoraNova;Moradora nova (sem nome anotado);vizinha;F1;
+NamoradoMoradora;Namorado da moradora nova (sem nome anotado);vizinho;F1;
+SeuMaranhao;Seu Maranhao;morador;F1;
+Macumbeira;Macumbeira (sem nome anotado);moradora;F1;
+Ieza;Ieza;irma de Herminia;F1,F2,F3;
+AndreLuiz;Andre Luiz;filho de Ieza;F1;
+CarolSampaio;Carol Sampaio;apresentadora/boate;F1;
+Reporter;Reporter (sem nome anotado);reporter;F1;
+Produtor;Produtor (sem nome anotado);produtor de TV;F1;
+Margarete;Margarete;programa de TV;F1;
+Liz;Liz;programa de TV;F1;
+
+# --- Personagens que aparecem a partir do filme 2 ---
+Motorista1;Motorista (sem nome anotado);motorista (cena 00:06:06);F2;
+Sindico;Sindico (sem nome anotado);sindico (F2);F2;
+Pedrinho;Pedrinho;filho de Garibe (neto de Herminia);F2;
+FatimaBernardes;Fatima Bernardes;(sem papel anotado);F2;
+Doutor;Doutor (sem nome anotado);medico (cena 00:23:51);F2;
+Luciane;Luciane;ruiva, irma de Herminia tambem;F2;
+Ladrao;Ladrao (sem nome anotado);assaltante (cena 00:26:58);F2;
+SeuMartinho;Seu Martinho;atendente da padaria;F2;
+Tales;Tales;cara da balada;F2;
+Marta;Marta;monja;F2;
+Prostituta;Prostituta (sem nome anotado);contratada por Juliano;F2;
+InstrutorAcademia;Instrutor da academia (sem nome anotado);instrutor;F2;
+Cesar;Cesar;dono da emissora;F2;
+Cecilia;Cecilia;(sem papel anotado);F2;
+Bia;Bia;assistente do programa de TV;F2;
+Leo;Leo;colega do negocio da Marcelina;F2;
+ChefeJuliano;Chefe do Juliano (sem nome anotado);chefe de Juliano;F2;
+Thales;Thales;cara aleatorio do aviao;F2;
+AleatorioTeatro;Cara aleatorio do teatro da Marcelina (sem nome anotado);figurante;F2;
+AleatorioImigracao;Cara aleatorio da fila de imigracao (sem nome anotado);figurante;F2;
+EntrevistadorImigracao;Cara que entrevista na fila de imigracao (sem nome anotado);entrevistador;F2;
+Motorista2;Outro motorista (sem nome anotado);motorista (cena 01:16:31);F2;
+AtendenteAviao;Balconista do aviao;Balconista (cena 00:48:24);F2;
+
+# --- Personagens que aparecem no filme 3 ---
+Feirante1;Feirante 1 (sem nome anotado);feirante (cena 00:02:45);F3;
+Feirante2;Feirante 2 (sem nome anotado);feirante (cena 00:03:20);F3;
+VendedorBanca;Vendedor da banca (sem nome anotado);vendedor da banca de revistas (cena 00:04:50);F3;
+AgenteFunerario;Agente funerario (sem nome anotado);agente funerario (cena 00:07:00);F3;
+Porteiro;Porteiro (sem nome anotado);porteiro (filme 3);F3;
+Moradora;Moradora (sem nome anotado);moradora (cena 00:09:17);F3;
+MarcelinaCrianca;Marcelina crianca (flashback);Marcelina na infancia (cena 00:18:38);F3;
+Terapeuta;Terapeuta (sem nome anotado);terapeuta (cena 00:28:10);F3;
+PacienteTerapia;Paciente da terapia (sem nome anotado);paciente (cena 00:29:00);F3;
+AmigaIdosa1;Amiga idosa 1 (sem nome anotado);amiga idosa de Herminia (cena 00:32:27);F3;
+AmigaIdosa2;Amiga idosa 2 (sem nome anotado);amiga idosa de Herminia (cena 00:32:27);F3;
+Garcom;Garcom (sem nome anotado);garcom do restaurante em Hollywood (cena 00:39:20);F3;
+PaiBrasileiro;Pai brasileiro (sem nome anotado);pai de dois bebes, brasileiro (cena 00:41:31);F3;
+SegurancaAeroporto;Seguranca do aeroporto (sem nome anotado);seguranca (cena 00:42:27);F3;
+BrasileiroBilingue;Brasileiro bilingue (sem nome anotado);brasileiro que traduz (cena 00:42:27);F3;
