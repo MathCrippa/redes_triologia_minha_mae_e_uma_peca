@@ -15,237 +15,237 @@
 # ===================================================================
 
 # 00:03:19 | discutem
-DonaHerminia Marcelina - Telefone F2 00:03:19
+DonaHerminia Marcelina - Telefone F2 
 
 # 00:06:06 | tem breve interacao
-DonaHerminia Motorista1 0 Carro F2 00:06:06
+DonaHerminia Motorista1 0 Carro F2
 
 # 00:06:30 | falam um pouco sobre a vida
-DonaHerminia Ieza 0 Praia_Calcadao F2 00:06:30
+DonaHerminia Ieza 0 Praia_Calcadao F2
 
 # 00:08:56 | conversam
-DonaHerminia DonaLurdes 0 Padaria F2 00:08:56
+DonaHerminia DonaLurdes 0 Padaria F2
 
 # 00:09:43 | discutem sobre nao poder sacola no elevador
-DonaHerminia Sindico - Hall_Apartamento_F2 F2 00:09:43
+DonaHerminia Sindico - Hall_Apartamento_F2 F2 
 
 # 00:10:20 | conversam
-DonaHerminia Valderia 0 Apartamento_F2 F2 00:10:20
+DonaHerminia Valderia 0 Apartamento_F2 F2
 
 # 00:11:25 | Juliano ensina DonaHerminia a mexer no Facebook
-DonaHerminia Juliano 0 Apartamento_F2 F2 00:11:25
+DonaHerminia Juliano 0 Apartamento_F2 F2
 
 # 00:12:08 | falam sobre vir visitar a casa
-DonaHerminia Pedrinho + Telefone F2 00:12:08
+DonaHerminia Pedrinho + Telefone F2
 
 # 00:12:53 | discutem sobre trabalho
-DonaHerminia Marcelina - Apartamento_F2 F2 00:12:53
+DonaHerminia Marcelina - Apartamento_F2 F2
 
 # 00:14:04 | discutem por Juliano ser BI
-DonaHerminia Juliano - Apartamento_F2 F2 00:14:04
+DonaHerminia Juliano - Apartamento_F2 F2 
 
 # 00:16:08 | falam um pouco sobre a vida
-DonaHerminia FatimaBernardes + Programa_TV F2 00:16:08
+DonaHerminia FatimaBernardes + Programa_TV F2
 
 # 00:17:48 | falam um pouco sobre a vida
-DonaHerminia TiaZelia + Apartamento_Zelia F2 00:17:48
+DonaHerminia TiaZelia + Apartamento_Zelia F2
 
 # 00:19:06 | conversam
-CarlosAlberto DonaHerminia 0 Restaurante F2 00:19:06
+CarlosAlberto DonaHerminia 0 Restaurante F2
 
 # 00:21:09 | discutem sobre jogar as coisas de Juliano fora
-DonaHerminia Juliano - Apartamento_F2 F2 00:21:09
+DonaHerminia Juliano - Apartamento_F2 F2 
 
 # 00:21:51 | Discutem sobre a tampa de um pote
-DonaHerminia Ieza - Apartamento_F2 F2 00:21:51
+DonaHerminia Ieza - Apartamento_F2 F2 
 
 # 00:22:34 | Marcelina comunica sobre o teste de atriz
-DonaHerminia Marcelina 0 Apartamento_F2 F2 00:22:34
+DonaHerminia Marcelina 0 Apartamento_F2 F2 
 
 # 00:22:55 | Herminia Fala sobre Ieza nao entrar na casa dela sem a tampa do pote
-DonaHerminia Juliano 0 Hospital F2 00:22:55
+DonaHerminia Juliano 0 Hospital F2
 
 # 00:23:51 | atende no hospital
-DonaHerminia Doutor 0 Hospital F2 00:23:51
+DonaHerminia Doutor 0 Hospital F2 
 
 # 00:24:44 | Luciane fala sobre estar com saudade do brasil
-Ieza Luciane 0 Aeroporto F2 00:24:44
+Ieza Luciane 0 Aeroporto F2
 
 # 00:26:58 | Ladrao assalta Herminia
-DonaHerminia Ladrao - Beiramar F2 00:26:58
+DonaHerminia Ladrao - Beiramar F2
 
 # 00:27:37 | Seu Martinho oferece spray de pimenta para Herminia comprar
-DonaHerminia SeuMartinho 0 Padaria F2 00:27:37
+DonaHerminia SeuMartinho 0 Padaria F2
 
 # 00:27:50 | Herminia joga spray de pimenta no Sindico
-DonaHerminia Sindico - Hall_Apartamento_F2 F2 00:27:50
+DonaHerminia Sindico - Hall_Apartamento_F2 F2
 
 # 00:28:34 | oferece agua
-SeuMartinho Valderia 0 Apartamento_F2 F2 00:28:34
+SeuMartinho Valderia 0 Apartamento_F2 F2 
 
 # 00:29:11 | Herminia coloca Pedrinho de castigo
-DonaHerminia Pedrinho - Apartamento_F2 F2 00:29:11
+DonaHerminia Pedrinho - Apartamento_F2 F2 
 
 # 00:29:46 | Se comprimentam e Luciane fala que vai ficar no apartamento de Herminia
-DonaHerminia Luciane + Apartamento_F2 F2 00:29:46
+DonaHerminia Luciane + Apartamento_F2 F2
 
 # 00:30:14 | Se comprimentam com felicidade
-Luciane Marcelina + Apartamento_F2 F2 00:30:14
-Juliano Luciane + Apartamento_F2 F2 00:30:14
+Luciane Marcelina + Apartamento_F2 F2
+Juliano Luciane + Apartamento_F2 F2 
 
 # 00:33:25 | Pedrinho desenha Herminia
-DonaHerminia Pedrinho + Apartamento_F2 F2 00:33:25
+DonaHerminia Pedrinho + Apartamento_F2 F2 
 
 # 00:33:37 | Juliano comprimenta Pedrinho
-Juliano Pedrinho + Apartamento_F2 F2 00:33:37
+Juliano Pedrinho + Apartamento_F2 F2 
 
 # 00:34:06 | Herminia coloca Pedrinho de castigo por pintar a parede
-DonaHerminia Pedrinho - Apartamento_F2 F2 00:34:06
+DonaHerminia Pedrinho - Apartamento_F2 F2
 
 # 00:34:27 | Herminia e Pedrinho vao visitar Zelia que esta com alzhaimer e falam sobre a maquiagem
-DonaHerminia TiaZelia + Apartamento_Zelia F2 00:34:27
+DonaHerminia TiaZelia + Apartamento_Zelia F2
 
 # 00:34:49 | Pedrinho fala que a maquiagem esta horrivel
-Pedrinho TiaZelia - Apartamento_Zelia F2 00:34:49
+Pedrinho TiaZelia - Apartamento_Zelia F2
 
 # 00:36:30 | Trocam falas sobre onde Herminia estava
-DonaHerminia Luciane 0 Apartamento_F2 F2 00:36:30
+DonaHerminia Luciane 0 Apartamento_F2 F2 
 
 # 00:38:09 | Marcelina fala onde vai morar em SP
-DonaHerminia Marcelina 0 Apartamento_F2 F2 00:38:09
+DonaHerminia Marcelina 0 Apartamento_F2 F2 
 
 # 00:44:39 | Se conversam um pouco com intuito de apresentar o Tales para filha
-DonaHerminia Tales 0 Balada F2 00:44:39
+DonaHerminia Tales 0 Balada F2
 
 # 00:45:20 | Conversam e em seguida se beijam
-Marcelina Tales + Balada F2 00:45:20
+Marcelina Tales + Balada F2 
 
 # 00:48:11 | Tem uma breve conversa
-DonaHerminia Juliano 0 Aeroporto F2 00:48:11
+DonaHerminia Juliano 0 Aeroporto F2
 
 # 00:48:24 | Fazem o checkin pro aviao
-AtendenteAviao DonaHerminia 0 Aeroporto F2 00:48:24
+AtendenteAviao DonaHerminia 0 Aeroporto F2 
 
 # 00:50:35 | Herminia faz uma entrevista com a Monja
-DonaHerminia Marta 0 Programa_TV F2 00:50:35
+DonaHerminia Marta 0 Programa_TV F2
 
 # 00:53:08 | Juliano fala sobre como acha Prostituta gostosa
-Juliano Prostituta + Apartamento_F2 F2 00:53:08
+Juliano Prostituta + Apartamento_F2 F2
 
 # 00:53:50 | Herminia fala pra Prostituta que Juliano 'e gay e manda ela sair
-DonaHerminia Prostituta 0 Apartamento_F2 F2 00:53:50
+DonaHerminia Prostituta 0 Apartamento_F2 F2 
 
 # 00:54:31 | Carlos Alberto comunica que Juliano ira pra SP
-CarlosAlberto DonaHerminia 0 Restaurante F2 00:54:31
+CarlosAlberto DonaHerminia 0 Restaurante F2
 
 # 00:55:44 | Discutem sobre Juliano apenas se levantar para querer ir ao banheiro
-DonaHerminia Juliano - Restaurante F2 00:55:44
+DonaHerminia Juliano - Restaurante F2 
 
 # 00:56:41 | Valderia discute sobre Herminia estar falando sozinha com a TV
-DonaHerminia Valderia - Apartamento_F2 F2 00:56:41
+DonaHerminia Valderia - Apartamento_F2 F2 
 
 # 00:57:17 | Herminia fala que ira para academia e Luciane oferece bolo
-DonaHerminia Luciane 0 Apartamento_F2 F2 00:57:17
+DonaHerminia Luciane 0 Apartamento_F2 F2
 
 # 00:57:52 | Instrutor tenta oferecer diversas coisas para Herminia treinar
-DonaHerminia InstrutorAcademia 0 Academia F2 00:57:52
+DonaHerminia InstrutorAcademia 0 Academia F2 
 
 # 00:59:16 | Brigam por pedaco de bolo
-DonaHerminia Luciane - Apartamento_F2 F2 00:59:16
+DonaHerminia Luciane - Apartamento_F2 F2 
 
 # 01:01:03 | Festa da emissora, trio Herminia/Ieza/Luciane falam sobre a Cecilia
-DonaHerminia Ieza 0 Festa_Emissora F2 01:01:03
-DonaHerminia Luciane 0 Festa_Emissora F2 01:01:03
-Ieza Luciane 0 Festa_Emissora F2 01:01:03
+DonaHerminia Ieza 0 Festa_Emissora F2
+DonaHerminia Luciane 0 Festa_Emissora F2 
+Ieza Luciane 0 Festa_Emissora F2 
 
 # 01:01:17 | Se comprimentam
-Cesar DonaHerminia + Festa_Emissora F2 01:01:17
+Cesar DonaHerminia + Festa_Emissora F2 
 
 # 01:01:33 | Se comprimentam e falam um pouco sobre o programa
-Cecilia Cesar + Festa_Emissora F2 01:01:33
+Cecilia Cesar + Festa_Emissora F2
 
 # 01:01:50 | Cesar fala que Herminia 'e velha na casa e ela fica brava
-Cesar DonaHerminia - Festa_Emissora F2 01:01:50
+Cesar DonaHerminia - Festa_Emissora F2 
 
 # 01:02:24 | se beijam
-CarlosAlberto Cecilia + Festa_Emissora F2 01:02:24
+CarlosAlberto Cecilia + Festa_Emissora F2 
 
 # 01:02:39 | Discutem sobre o Carlos Alberto ficar com as "interesseiras"
-CarlosAlberto DonaHerminia - Festa_Emissora F2 01:02:39
+CarlosAlberto DonaHerminia - Festa_Emissora F2 
 
 # 01:03:01 | Discutem sobre ser Ex
-Cecilia DonaHerminia - Festa_Emissora F2 01:03:01
+Cecilia DonaHerminia - Festa_Emissora F2 
 
 # 01:03:16 | Falam sobre estar dando em cima de caras (Do mesmo cara as duas)
-Ieza Luciane - Festa_Emissora F2 01:03:16
+Ieza Luciane - Festa_Emissora F2
 
 # 01:05:14 | Mesa do lado de fora, trio Herminia/Ieza/Luciane conversam sobre homens
-DonaHerminia Ieza 0 Mesa_Fora F2 01:05:14
-DonaHerminia Luciane 0 Mesa_Fora F2 01:05:14
-Ieza Luciane 0 Mesa_Fora F2 01:05:14
+DonaHerminia Ieza 0 Mesa_Fora F2 
+DonaHerminia Luciane 0 Mesa_Fora F2 
+Ieza Luciane 0 Mesa_Fora F2 
 
 # 01:06:22 | Desconhecido comunicam morte de Tia Zelia
 
 # 01:07:18 | trio Herminia/Ieza/Luciane falam um pouco sobre a Vida
-DonaHerminia Ieza 0 Orla F2 01:07:18
-DonaHerminia Luciane 0 Orla F2 01:07:18
-Ieza Luciane 0 Orla F2 01:07:18
+DonaHerminia Ieza 0 Orla F2 
+DonaHerminia Luciane 0 Orla F2 
+Ieza Luciane 0 Orla F2 
 
 # 01:09:33 | trio Herminia/Ieza/Luciane Se dispedem da Luciane que volta pra NY
-DonaHerminia Ieza + Aeroporto F2 01:09:33
-DonaHerminia Luciane + Aeroporto F2 01:09:33
-Ieza Luciane + Aeroporto F2 01:09:33
+DonaHerminia Ieza + Aeroporto F2
+DonaHerminia Luciane + Aeroporto F2 
+Ieza Luciane + Aeroporto F2 
 
 # 01:09:39 | Herminia pergunta a Bia se as criancas ligaram
-Bia DonaHerminia 0 Programa_TV F2 01:09:39
+Bia DonaHerminia 0 Programa_TV F2 
 
 # 01:11:59 | Herminia apenas liga para papear
-DonaHerminia DonaLurdes + Telefone F2 01:11:59
+DonaHerminia DonaLurdes + Telefone F2
 
 # 01:12:46 | Herminia tambem liga apenas para papear
-CarlosAlberto DonaHerminia + Telefone F2 01:12:46
+CarlosAlberto DonaHerminia + Telefone F2 
 
 # 01:13:36 | Marcelina pede ajuda para Leo para descer e atender a Mae no telefone
-Leo Marcelina 0 Ensaio_Marcelina F2 01:13:36
+Leo Marcelina 0 Ensaio_Marcelina F2
 
 # 01:13:51 | ChefeJuliano elogia Juliano no processo de selecao da empresa
-ChefeJuliano Juliano + Empresa_Advocacia F2 01:13:51
+ChefeJuliano Juliano + Empresa_Advocacia F2 
 
 # 01:14:46 | Juliano comunica que passou no processo de selecao da empresa de advogacia
-DonaHerminia Juliano + Telefone F2 01:14:46
+DonaHerminia Juliano + Telefone F2
 
 # 01:15:48 | Herminia troca um papo breve com thales e fala que ele seria um otimo namorado pro seu filho
-DonaHerminia Thales + Aviao F2 01:15:48
+DonaHerminia Thales + Aviao F2 
 
 # 01:16:31 | Herminia pede para que o motorista va rapido em seguida pede para ir devagar
-DonaHerminia Motorista2 - Carro F2 01:16:31
+DonaHerminia Motorista2 - Carro F2 
 
 # 01:17:44 | Familia (Agora completa) se reune para ver o Teatro da Marcelina
-DonaHerminia Juliano 0 Teatro_Marcelina F2 01:17:44
+DonaHerminia Juliano 0 Teatro_Marcelina F2 
 
 # 01:18:29 | Herminia fala sobre estar nervosa com o Juliano
-DonaHerminia Juliano 0 Teatro_Marcelina F2 01:18:29
+DonaHerminia Juliano 0 Teatro_Marcelina F2
 
 # 01:19:27 | AleatorioTeatro fala que Marcelina e otima
-AleatorioTeatro DonaHerminia + Teatro_Marcelina F2 01:19:27
+AleatorioTeatro DonaHerminia + Teatro_Marcelina F2 
 
 # 01:20:01 | Herminia, Marcelina, Juliano e Garibe Jogam juntos o jogo "Stop"
-DonaHerminia Garibe + Apartamento_F2 F2 01:20:01
-DonaHerminia Juliano + Apartamento_F2 F2 01:20:01
-DonaHerminia Marcelina + Apartamento_F2 F2 01:20:01
-Garibe Juliano + Apartamento_F2 F2 01:20:01
-Garibe Marcelina + Apartamento_F2 F2 01:20:01
-Juliano Marcelina + Apartamento_F2 F2 01:20:01
+DonaHerminia Garibe + Apartamento_F2 F2 
+DonaHerminia Juliano + Apartamento_F2 F2 
+DonaHerminia Marcelina + Apartamento_F2 F2 
+Garibe Juliano + Apartamento_F2 F2
+Garibe Marcelina + Apartamento_F2 F2 
+Juliano Marcelina + Apartamento_F2 F2 
 
 # 01:22:30 | se despedindo de Herminia, que vai para NY
-DonaHerminia Garibe + Hall_Apartamento_F2 F2 01:22:30
-DonaHerminia Ieza + Hall_Apartamento_F2 F2 01:22:30
-DonaHerminia Juliano + Hall_Apartamento_F2 F2 01:22:30
-DonaHerminia Marcelina + Hall_Apartamento_F2 F2 01:22:30
-DonaHerminia Pedrinho + Hall_Apartamento_F2 F2 01:22:30
+DonaHerminia Garibe + Hall_Apartamento_F2 F2 
+DonaHerminia Ieza + Hall_Apartamento_F2 F2 
+DonaHerminia Juliano + Hall_Apartamento_F2 F2
+DonaHerminia Marcelina + Hall_Apartamento_F2 F2 
+DonaHerminia Pedrinho + Hall_Apartamento_F2 F2 
 
 # 01:23:20 | Falam brevemente ate que chega a vez de Herminia passar na migracao
-AleatorioImigracao DonaHerminia 0 Fila_Imigracao F2 01:23:20
+AleatorioImigracao DonaHerminia 0 Fila_Imigracao F2 
 
 # 01:23:30 | Tentam conversar um com outro porem nao se entendem
-DonaHerminia EntrevistadorImigracao 0 Imigracao F2 01:23:30
+DonaHerminia EntrevistadorImigracao 0 Imigracao F2 
