@@ -1,0 +1,201 @@
+# ===================================================================
+# BASE DE INTERACOES - FILME 1
+# Fonte de visualizacao: Globoplay
+#
+# FORMATO:
+# tempo | descricao sobre oque acontece na Cena
+# personagem1 personagem2 sinal ambiente filme tempo
+# - sinal: + | - | 0
+#
+# AMBIENTES USADOS: Apartamento_Herminia, Apartamento_Zelia,
+#   Apartamento_CarlosAlberto, Apartamento_MoradoraNova, Cozinha_Herminia,
+#   Hall_Apartamento, Predio, Portaria, Rua, Praia_Calcadao, Clube, Carro,
+#   Janela, Telefone, Mercado, Boate, Restaurante, Campo_Sao_Bento,
+#   Programa_TV, Reuniao_Condominio, Hospital
+# ===================================================================
+
+# 00:03:00 | discussao sobre tomar banho; Marcelina sai irritada
+DonaHerminia Marcelina - Apartamento_Herminia F1 00:03:00
+
+# 00:05:21 | Juliano e Garibe falam brevemente ate Herminia pegar o telefone
+Garibe Juliano + Telefone F1 00:05:21
+
+# 00:05:21 | Herminia e Garibe conversam; Herminia fala mal de Andreia (ausente)
+DonaHerminia Garibe + Telefone F1 00:05:21
+
+# 00:06:33 | conversam brevemente; depois Herminia fala mal de Soraia (ausente)
+CarlosAlberto DonaHerminia + Janela F1 00:06:33
+
+# 00:08:24 | Carro | presentes: CarlosAlberto, Juliano, Marcelina, Soraia
+Marcelina Soraia + Carro F1 00:08:24
+Juliano Soraia + Carro F1 00:08:24
+
+# 00:08:56 | Herminia e Juliano falam sobre esquecer o remedio de asma
+DonaHerminia Juliano + Telefone F1 00:08:56
+# 00:08:56 | Marcelina fala mal de Herminia sem saber que a ligacao estava aberta
+DonaHerminia Marcelina - Telefone F1 00:08:56
+
+# 00:12:41 | falam de estar cansada das criancas e de situacoes passadas
+DonaHerminia TiaZelia + Apartamento_Zelia F1 00:12:41
+
+# 00:14:12 | Soraia faz comentario sobre Marcelina estar gorda
+Marcelina Soraia - Clube F1 00:14:12
+
+# 00:21:37 | chegam ao apartamento e a mae nao estava
+Juliano Marcelina 0 Apartamento_Herminia F1 00:21:37
+# 00:21:37 | Juliano pergunta ao porteiro sobre a mae
+Juliano Wesley 0 Apartamento_Herminia F1 00:21:37
+
+# 00:22:10 | Jonacir pergunta ao porteiro sobre Herminia ter ido embora
+DonaJonacir Wesley 0 Portaria F1 00:22:10
+
+# 00:22:43 | pergunta sobre a mae (por telefone)
+Juliano TiaZelia 0 Telefone F1 00:22:43
+
+# 00:29:38 | sem comida; Valderia nao ajuda
+Marcelina Valderia - Predio F1 00:29:38
+Juliano Valderia - Predio F1 00:29:38
+
+# 00:30:34 | falam sobre Herminia ter exagerado em sair de casa
+DonaHerminia TiaZelia + Apartamento_Zelia F1 00:30:34
+
+# 00:32:25 | falam sobre arrumar marido
+DonaHerminia TiaZelia 0 Praia_Calcadao F1 00:32:25
+
+# 00:33:27 | Marcelina pede a Juliano que peca ao namorado (Tiago) para comprar comida
+Juliano Marcelina 0 Apartamento_Herminia F1 00:33:27
+
+# 00:34:17 | falam sobre "assuntos desagradaveis"
+DonaHerminia DonaLurdes - Rua F1 00:34:17
+
+# 00:36:25 | discutem sobre o barulho da vizinha nova
+DonaHerminia MoradoraNova - Hall_Apartamento F1 00:36:25
+
+# 00:37:07 | cantam karaoke
+DonaHerminia MoradoraNova 0 Apartamento_MoradoraNova F1 00:37:07
+DonaHerminia NamoradoMoradora 0 Apartamento_MoradoraNova F1 00:37:07
+MoradoraNova NamoradoMoradora - Apartamento_MoradoraNova F1 00:37:07
+
+# 00:37:55 | Reuniao de condominio: discutem porteiro fora da portaria e obra na garagem
+DonaHerminia DonaJonacir - Reuniao_Condominio F1 00:37:55
+# 00:37:55 | Herminia discute sobre os cachorros do Seu Maranhao
+DonaHerminia SeuMaranhao - Reuniao_Condominio F1 00:37:55
+# 00:37:55 | Herminia discute sobre o tambor da Macumbeira
+DonaHerminia Macumbeira - Reuniao_Condominio F1 00:37:55
+
+# 00:41:27 | Tiago traz lanche com salada para Marcelina
+Marcelina Tiago 0 Apartamento_Herminia F1 00:41:27
+# 00:41:27 | Tiago traz o lanche preferido de Juliano
+Juliano Tiago + Apartamento_Herminia F1 00:41:27
+
+# 00:44:33 | Ieza fala sobre Andre Luiz estar fumando
+DonaHerminia Ieza 0 Apartamento_Herminia F1 00:44:33
+# 00:44:33 | ficam discutindo sobre quem e pior (muda o tom na mesma cena)
+DonaHerminia Ieza - Apartamento_Herminia F1 00:44:33
+
+# 00:46:33 | falam sobre ter trauma de crianca
+DonaHerminia Garibe 0 Telefone F1 00:46:33
+
+# 00:47:19 | falam sobre ter comida para todas as criancas
+DonaHerminia Valderia 0 Apartamento_Herminia F1 00:47:19
+
+# 00:48:28 | Marcelina reclama de Herminia ser chata
+DonaHerminia Marcelina - Apartamento_Herminia F1 00:48:28
+# 00:48:28 | Juliano tenta enganar Herminia
+DonaHerminia Juliano 0 Apartamento_Herminia F1 00:48:28
+
+# 00:49:51 | falam sobre as criancas
+DonaHerminia TiaZelia + Apartamento_Zelia F1 00:49:51
+
+# 00:51:38 | Apartamento_Herminia | Marcelina e Juliano comunicam Herminia do falecimento do AndreLuiz
+DonaHerminia Marcelina 0 Apartamento_Herminia F1 00:51:38
+
+# 00:53:19 | discutem sobre nao estar em casa
+DonaHerminia Marcelina - Telefone F1 00:53:19
+
+# 00:55:32 | procuram Marcelina
+DonaHerminia Juliano 0 Boate F1 00:55:32
+# 00:55:32 | Herminia pede a Carol para desligar tudo e perguntar no microfone onde esta Marcelina
+CarolSampaio DonaHerminia 0 Boate F1 00:55:32
+# 00:55:32 | Herminia tira sarro de Marcelina nao estar em casa
+DonaHerminia Marcelina - Boate F1 00:55:32
+
+# 00:57:55 | Juliano fala de saudade de Herminia e que deviam ligar para ela
+Juliano Marcelina + Apartamento_Herminia F1 00:57:55
+
+# 00:59:12 | falam sobre comprar algo para biliscar
+DonaHerminia TiaZelia 0 Apartamento_Zelia F1 00:59:12
+
+# 00:59:41 | olham juntos um album antigo e Marcelina decide ligar para a mae
+Juliano Marcelina + Apartamento_Herminia F1 00:59:41
+
+# 01:01:20 | falam sobre a mae
+Marcelina TiaZelia 0 Telefone F1 01:01:20
+
+# 01:02:26 | Herminia fala sobre voltar
+DonaHerminia TiaZelia + Mercado F1 01:02:26
+
+# 01:03:08 | vao procurar a mae no apartamento da Zelia
+Juliano Marcelina 0 Apartamento_Zelia F1 01:03:08
+
+# 01:04:09 | reporter pergunta se pode entrevistar
+DonaHerminia Reporter 0 Campo_Sao_Bento F1 01:04:09
+
+# 01:04:43 | Restaurante | Marcelina e Juliano veem a mae na TV
+Juliano Marcelina + Restaurante F1 01:04:43
+
+# 01:05:08 | Apartamento_CarlosAlberto | Carlos Alberto e Soraia veem Herminia na TV
+CarlosAlberto Soraia 0 Apartamento_CarlosAlberto F1 01:05:08
+
+# 01:06:22 | reencontro feliz e abraco
+DonaHerminia Marcelina + Campo_Sao_Bento F1 01:06:22
+DonaHerminia Juliano + Campo_Sao_Bento F1 01:06:22
+
+# 01:07:16 | Carlos Alberto ignora Soraia e ela fica brava
+CarlosAlberto Soraia - Apartamento_CarlosAlberto F1 01:07:16
+
+# 01:07:46 | Valderia fala que as criancas nao querem acordar
+DonaHerminia Valderia 0 Apartamento_Herminia F1 01:07:46
+# 01:07:46 | Herminia joga balde de agua fria em Marcelina
+DonaHerminia Marcelina - Apartamento_Herminia F1 01:07:46
+# 01:07:46 | Herminia acorda Juliano e pede para tomar banho
+DonaHerminia Juliano 0 Apartamento_Herminia F1 01:07:46
+
+# 01:08:44 | perguntam como estao as coisas
+DonaHerminia TiaZelia + Telefone F1 01:08:44
+
+# 01:09:03 | Herminia diz que (Soraia e Carlos Alberto?) "sao falsas"
+DonaHerminia Soraia - Rua F1 01:09:03
+# 01:09:03 | Herminia fala de ter bom gosto
+CarlosAlberto DonaHerminia 0 Rua F1 01:09:03
+
+# 01:10:16 | produtor convida Herminia para participar de um programa de TV
+DonaHerminia Produtor + Telefone F1 01:10:16
+
+# 01:11:36 | falam do programa
+DonaHerminia Margarete 0 Programa_TV F1 01:11:36
+DonaHerminia Liz 0 Programa_TV F1 01:11:36
+
+# 01:13:02 | Reencontro no Apartamento_Herminia para ver o Programa_TV
+# 01:13:02 | Carlos Alberto diz estar orgulhoso do programa
+CarlosAlberto DonaHerminia + Apartamento_Herminia F1 01:13:02
+# 01:13:02 | Valderia oferece algo para beber a Carlos Alberto
+CarlosAlberto Valderia 0 Apartamento_Herminia F1 01:13:02
+# 01:13:02 | Valderia e Soraia discutem
+Soraia Valderia - Apartamento_Herminia F1 01:13:02
+
+# 01:15:14 | Herminia discute com Soraia
+DonaHerminia Soraia - Cozinha_Herminia F1 01:15:14
+# 01:15:14 | Valderia discute com Soraia
+Soraia Valderia - Cozinha_Herminia F1 01:15:14
+# 01:15:14 | Carlos Alberto se desculpa a Herminia
+CarlosAlberto DonaHerminia + Cozinha_Herminia F1 01:15:14
+
+# 01:16:45 | se cumprimentam e abracam
+DonaHerminia Garibe + Apartamento_Herminia F1 01:16:45
+
+# 01:17:10 | Garibe fala que esta gravido e Herminia desmaia
+DonaHerminia Garibe + Apartamento_Herminia F1 01:17:10
+
+# 01:17:33 | Hospital | Garibe, Herminia, Juliano, Marcelina presentes, falam sobre o Neto que Herminia ira ganhar.
+DonaHerminia Garibe + Hospital F1 01:17:41

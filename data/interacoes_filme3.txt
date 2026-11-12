@@ -1,0 +1,153 @@
+# ===================================================================
+# BASE DE INTERACOES - FILME 3 
+# Fonte de visualizacao: GloboPlay
+#
+# FORMATO:
+# tempo | descricao sobre oque acontece na Cena
+# personagem1 personagem2 sinal ambiente filme tempo
+# - sinal: + | - | 0
+#
+# AMBIENTES USADOS: Aeroporto, Apartamento_CarlosAlberto,
+#   Apartamento_Herminia, Elevador, Feira, Flashback_Escola, Hollywood,
+#   Hospital, Local_Taro, Manicure, Portaria, Praia, Praia_Calcadao,
+#   Restaurante, Restaurante_Hollywood, Rua, Salao_Festa, Telefone, Terapia
+# ===================================================================
+
+# 00:02:45 | Conversa sobre ausência de Marcelina na feira
+DonaHerminia Feirante1 0 Feira F3 00:02:45
+
+# 00:03:20 | Feirantes negociando com DonaHerminia
+DonaHerminia Feirante2 0 Feira F3 00:03:20
+
+# 00:04:50 | Discussao sobre revistas, Xuxa careca e traição
+DonaHerminia VendedorBanca - Praia_Calcadao F3 00:04:50
+
+# 00:06:00 | DonaHerminia chega em casa, Valderia avisa que ninguem telefonou
+DonaHerminia Valderia 0 Apartamento_Herminia F3 00:06:00
+
+# 00:06:50 | DonaHerminia esqueceu a cebola que Valderia tinha pedido
+DonaHerminia Valderia 0 Apartamento_Herminia F3 00:06:50
+
+# 00:07:00 | DonaHerminia entra no elevador e descobre morte de DonaOdete
+AgenteFunerario DonaHerminia 0 Elevador F3 00:07:00
+
+# 00:07:40 | DonaHerminia volta para casa e conta para Valderia
+DonaHerminia Valderia 0 Apartamento_Herminia F3 00:07:40
+
+# 00:08:00 | Valderia diz que vai embora no fim de semana, Herminia inconformada
+DonaHerminia Valderia - Apartamento_Herminia F3 00:08:00
+
+# 00:08:30 | DonaHerminia decide ficar na portaria pelo fim de semana
+DonaHerminia Porteiro 0 Portaria F3 00:08:30
+
+# 00:08:50 | Porteiro pergunta da familia, Herminia fala que estão distantes
+DonaHerminia Porteiro 0 Portaria F3 00:08:50
+
+# 00:09:17 | DonaHerminia encontra moradora e faz ela parar para tomarem cafe
+DonaHerminia Moradora 0 Portaria F3 00:09:17
+
+# 00:10:00 | DonaHerminia começa conversa profunda e deixa moradora desconfortavel
+DonaHerminia Moradora - Portaria F3 00:10:00
+DonaHerminia Porteiro 0 Portaria F3 00:10:00
+
+# 00:10:37 | DonaHerminia reclama por não ser compreendida
+DonaHerminia Porteiro - Portaria F3 00:10:37
+
+# 00:11:10 | DonaHerminia começa a passar mal e alerta o Porteiro
+DonaHerminia Porteiro 0 Portaria F3 00:11:10
+
+# 00:11:50 | DonaHerminia acorda com Ieza no quarto e conversam sobre o surto
+DonaHerminia Ieza 0 Hospital F3 00:11:50
+
+# 00:12:25 | Juliano chega ao hospital preocupado e conversa com a mãe e tia
+DonaHerminia Juliano + Hospital F3 00:12:25
+Ieza Juliano + Hospital F3 00:12:25
+
+# 00:13:00 | Juliano ia dar uma noticia e DonaHerminia já diz que esta boa
+DonaHerminia Juliano 0 Hospital F3 00:13:00
+
+# 00:13:20 | Marcelina chega ao hospital e diz que tem grande noticia pra mãe
+DonaHerminia Marcelina + Hospital F3 00:13:20
+Juliano Marcelina + Hospital F3 00:13:20
+
+# 00:14:27 | DonaHerminia chega em casa, se prepara para resolver problemas dos filhos
+DonaHerminia Juliano 0 Apartamento_Herminia F3 00:14:27
+DonaHerminia Marcelina 0 Apartamento_Herminia F3 00:14:27
+
+# 00:16:40 | Juliano conta que sua sogra vai dar a festa de casamento de presente
+DonaHerminia Juliano 0 Apartamento_Herminia F3 00:16:40
+
+# 00:17:20 | Marcelina conta que não precisa dos esforços da mãe, Herminia fica triste
+DonaHerminia Marcelina - Apartamento_Herminia F3 00:17:20
+
+# 00:18:38 | DonaHerminia relembra época de escola dando conselhos pra versão criança
+DonaHerminia MarcelinaCrianca + Flashback_Escola F3 00:18:38
+
+# 00:19:50 | DonaHerminia tem dificuldade de se despedir, sentimento não reciproco
+DonaHerminia MarcelinaCrianca - Flashback_Escola F3 00:19:50
+
+# 00:20:57 | Marcelina se despede de DonaHerminia no presente
+DonaHerminia Marcelina 0 Apartamento_Herminia F3 00:20:57
+
+# 00:21:06 | DonaHerminia e Ieza caminham na praia, se queixa do neto
+DonaHerminia Ieza 0 Praia F3 00:21:06
+
+# 00:21:45 | DonaHerminia indaga se Ieza esta praticando sexo e reclama
+DonaHerminia Ieza 0 Praia F3 00:21:45
+
+# 00:23:18 | DonaHerminia chega em casa, ve moveis de mudança
+DonaHerminia Porteiro 0 Portaria F3 00:23:18
+
+# 00:23:54 | DonaHerminia e questionada por Valderia por estar muito arrumada
+DonaHerminia Valderia 0 Apartamento_Herminia F3 00:23:54
+
+# 00:24:50 | DonaHerminia descobre que novo morador é seu ex marido Carlos Alberto
+CarlosAlberto DonaHerminia 0 Apartamento_CarlosAlberto F3 00:24:50
+
+# 00:25:30 | Jantam juntos, Carlos Alberto busca reconciliação e propoe terapia
+CarlosAlberto DonaHerminia + Restaurante F3 00:25:30
+
+# 00:28:10 | DonaHerminia chega a terapia e desabafa sobre o neto
+DonaHerminia Terapeuta 0 Terapia F3 00:28:10
+
+# 00:29:00 | DonaHerminia da palpites atrapalhando a sessão dos outros
+DonaHerminia PacienteTerapia - Terapia F3 00:29:00
+
+# 00:30:50 | DonaHerminia encontra Ieza, começa a tirar tarô e discutem
+DonaHerminia Ieza - Local_Taro F3 00:30:50
+
+# 00:32:27 | DonaHerminia encontra amigas idosas e organiza entrada no onibus
+AmigaIdosa1 DonaHerminia 0 Rua F3 00:32:27
+AmigaIdosa2 DonaHerminia 0 Rua F3 00:32:27
+
+# 00:33:14 | DonaHerminia dança no baile com as amigas
+AmigaIdosa1 DonaHerminia + Salao_Festa F3 00:33:14
+
+# 00:33:50 | DonaHerminia e Carlos Alberto começam a fazer ciúmes mutuo
+CarlosAlberto DonaHerminia - Salao_Festa F3 00:33:50
+
+# 00:34:50 | DonaHerminia se machuca dançando, Carlos Alberto vai acolhe-la
+CarlosAlberto DonaHerminia + Salao_Festa F3 00:34:50
+
+# 00:35:30 | DonaHerminia e abordada por DonaLurdes e convidada para hollywood
+DonaHerminia DonaLurdes + Manicure F3 00:35:30
+
+# 00:37:00 | DonaHerminia e DonaLurdes tiram foto na placa de hollywood e no museu
+DonaHerminia DonaLurdes + Hollywood F3 00:37:00
+
+# 00:39:20 | Enfrentam dificuldades no restaurante com o garçom (ingles)
+DonaHerminia Garcom 0 Restaurante_Hollywood F3 00:39:20
+DonaLurdes Garcom 0 Restaurante_Hollywood F3 00:39:20
+
+# 00:41:31 | Encontram pai de dois bebes brasileiro e conversam
+DonaHerminia PaiBrasileiro + Hollywood F3 00:41:31
+DonaLurdes PaiBrasileiro + Hollywood F3 00:41:31
+
+# 00:42:27 | DonaHerminia barrada na segurança, chama brasileiro para traduzir
+DonaHerminia SegurancaAeroporto - Aeroporto F3 00:42:27
+BrasileiroBilingue DonaHerminia + Aeroporto F3 00:42:27
+
+# 00:45:05 | DonaHerminia recebe ligação de Juliano e chama para tomar café
+DonaHerminia Juliano + Telefone F3 00:45:05
+
+# ...

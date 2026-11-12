@@ -1,0 +1,132 @@
+===================================================================
+MANUAL DE ANOTAÇÃO DE INTERAÇÕES
+Obra: trilogia "Minha Mãe é uma Peça" (filmes 1, 2 e 3)
+Fonte de visualização: GloboPlay 
+===================================================================
+
+-------------------------------------------------------------------
+1. OBJETIVO
+-------------------------------------------------------------------
+Registrar, de forma verificável, as interações diretas entre
+personagens, para construir redes de interação (global, por filme,
+por sinal, por ambiente etc.). Cada registro deve poder ser
+conferido na obra pela minutagem.
+
+-------------------------------------------------------------------
+2. PERSONAGENS
+-------------------------------------------------------------------
+2.1 Cada personagem tem um ID único: só letras sem acento e
+    algarismos, sem espaço e sem caractere especial.
+    Exemplos: DonaHerminia, CarlosAlberto, Motorista1.
+2.2 O dicionário (personagens.txt) associa ID, nome canônico, papel e
+    filmes em que aparece.
+2.3 Apelidos, diminutivos e formas alternativas de tratamento
+    apontam para o mesmo ID quando se referem à mesma pessoa.
+    Quando um apelido novo aparecer, anotar "apelido = quem?" e
+    resolver antes de criar um personagem novo.
+2.4 Personagens sem nome recebem um ID descritivo, baseado no papel
+    anotado (ex.: Sindico, Doutor, Ladrao). Se dois figurantes sem
+    nome forem pessoas diferentes, usar IDs numerados (Motorista1,
+    Motorista2).
+2.5 O mesmo ID vale nos três filmes. Atualizar a coluna "filmes" do
+    dicionário sempre que o personagem reaparecer.
+2.6 Se a identidade de um personagem for ambígua ou mudar ao longo
+    da narrativa, registrar a decisão como comentário (#) no
+    dicionário.
+2.7 Conferir a grafia dos nomes nos créditos oficiais.
+
+-------------------------------------------------------------------
+3. O QUE É UMA INTERAÇÃO
+-------------------------------------------------------------------
+Registra-se uma interação quando dois personagens identificáveis se
+dirigem um ao outro de forma reconhecível, por pelo menos um dos
+meios abaixo:
+
+ a) Troca verbal direta: um fala COM o outro e há reconhecimento
+    (resposta, reação visível ou continuidade da conversa).
+ b) Ação física dirigida: abraço, empurrão, entrega de objeto,
+    agressão, ajuda concreta.
+ c) Conversa por telefone, com resposta. Nesse caso o ambiente é
+    "Telefone".
+
+NÃO conta como interação:
+ - presença no mesmo ambiente sem se dirigirem um ao outro;
+ - falar SOBRE alguém ausente (não gera registro com essa pessoa);
+ - olhares ou reações sem troca;
+ - assistir a alguém na TV sem conversar entre si;
+ - fala dirigida a um grupo sem destinatário individual
+   identificável.
+
+3.1 Regra de grupos: em cena com várias pessoas, registrar um
+    registro por PAR que de fato trocou fala ou ação. Não registrar
+    "todos contra todos". 
+3.2 Interações unilaterais (um lado percebe, o outro não; por
+    exemplo, alguém fala mal de outra pessoa sem saber que ela está
+    ouvindo) são um caso especial. (-) para se um dos casos falar na maldade
+
+-------------------------------------------------------------------
+4. INÍCIO E FIM DE UMA INTERAÇÃO
+-------------------------------------------------------------------
+Começa: na primeira fala ou ação dirigida de um ao outro.
+Termina quando ocorrer uma destas condições:
+ 1. um dos dois sai da cena;
+ 2. há corte de cena (mudança de local ou salto temporal);
+ 3. muda o assunto E muda o tom de forma clara;
+ 4. entra um terceiro personagem que redireciona a conversa e o par
+    original deixa de se falar.
+
+O campo "tempo" guarda o início da CENA.
+
+-------------------------------------------------------------------
+5. CONVERSAS PROLONGADAS
+-------------------------------------------------------------------
+Regra base: um bloco contínuo de conversa entre o mesmo par = UM
+registro. Não criar um registro por fala.
+
+Quebrar o bloco em mais de um registro quando houver:
+ - mudança de ambiente dentro da mesma conversa;
+ - mudança clara de sinal;
+ - interrupção longa, em que o par deixa de se falar e depois
+   retoma.
+
+Flashbacks são marcados como registros normais.
+
+-------------------------------------------------------------------
+6. EVENTOS DIFERENTES ENTRE O MESMO PAR
+-------------------------------------------------------------------
+Dois registros separados para o mesmo par quando houver pelo menos
+um destes:
+ - cenas diferentes (corte de cena entre elas);
+ - ambientes diferentes;
+ - mudança de sinal dentro do mesmo bloco (por exemplo, começa com
+   conversa neutra e termina em briga);
+ - mudança de assunto acompanhada de pausa perceptível.
+
+Não dividir um bloco só porque o assunto variou levemente ou porque
+houve uma pausa curta no diálogo.
+
+-------------------------------------------------------------------
+7. SINAL DA INTERAÇÃO
+-------------------------------------------------------------------
+O campo "sinal" assume exatamente um destes valores:
+
+ +  Predomina apoio, carinho, cooperação, elogio ou ajuda, com tom
+    amistoso.
+    Exemplo (base, filme 1, 01:06:22): reencontro feliz e abraço.
+
+ -  Predomina hostilidade, ataque, ameaça, humilhação ou discussão
+    com antagonismo.
+    Exemplo (base, filme 1, 00:03:00): discussão sobre tomar banho.
+
+ 0  Troca informativa ou funcional, sem carga afetiva identificável.
+    Exemplo (base, filme 1, 00:22:10): a síndica pergunta ao porteiro
+    sobre Herminia ter ido embora.
+
+-------------------------------------------------------------------
+8. DIRECIONALIDADE
+-------------------------------------------------------------------
+Estado atual: rede NÃO DIRECIONADA. Em cada linha os IDs estão em
+ordem alfabética e a ordem NÃO TEM SIGNIFICADO (a direção nunca é
+inferida da ordem das colunas).
+Quando a descrição diz quem agiu (por exemplo, "Herminia joga balde
+de água em Marcelina"), isso fica apenas no comentário.
