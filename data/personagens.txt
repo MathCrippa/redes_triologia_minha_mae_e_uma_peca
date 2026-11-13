@@ -59,10 +59,6 @@ VendedorBanca;Vendedor da banca (sem nome anotado);vendedor da banca de revistas
 AgenteFunerario;Agente funerario (sem nome anotado);agente funerario (cena 00:07:00);F3;
 Porteiro;Porteiro (sem nome anotado);porteiro (filme 3);F3;
 Moradora;Moradora (sem nome anotado);moradora (cena 00:09:17);F3;
-<<<<<<< HEAD
-=======
-MarcelinaCrianca;Marcelina crianca (flashback);Marcelina na infancia (cena 00:18:38);F3;
->>>>>>> origin/main
 Terapeuta;Terapeuta (sem nome anotado);terapeuta (cena 00:28:10);F3;
 PacienteTerapia;Paciente da terapia (sem nome anotado);paciente (cena 00:29:00);F3;
 AmigaIdosa1;Amiga idosa 1 (sem nome anotado);amiga idosa de Herminia (cena 00:32:27);F3;
@@ -70,8 +66,6 @@ AmigaIdosa2;Amiga idosa 2 (sem nome anotado);amiga idosa de Herminia (cena 00:32
 Garcom;Garcom (sem nome anotado);garcom do restaurante em Hollywood (cena 00:39:20);F3;
 PaiBrasileiro;Pai brasileiro (sem nome anotado);pai de dois bebes, brasileiro (cena 00:41:31);F3;
 SegurancaAeroporto;Seguranca do aeroporto (sem nome anotado);seguranca (cena 00:42:27);F3;
-<<<<<<< HEAD
-BrasileiroBilingue;Brasileiro bilingue (sem nome anotado);brasileiro que traduz (cena 00:42:27);F3;
 Feirante;Feirante (sem nome anotado);feirante(s) da feira (cenas 00:02:45 e 00:03:20);F3;
 AmigasIdosas;Amigas idosas (grupo, sem nomes anotados);amigas idosas de Herminia (cenas 00:32:27 e 00:33:14);F3;
 Ana;Ana;sogra de Juliano;F3;
@@ -80,6 +74,4 @@ MaeTradicional;Mae tradicional (sem nome anotado);mae na festa a fantasia(cena 0
 CriancaBully;Crianca do bullying (sem nome anotado);crianca que pratica bullying(cena 00:48:00);F3;
 Policial;Policial (sem nome anotado);policial da blitz (cena 01:26:01);F3;
 MulherSupermercado;Mulher do supermercado (sem nome anotado);disputa o ultimo fermento (cena 01:27:19);F3;
-=======
-BrasileiroBilingue;Brasileiro bilingue (sem nome anotado);brasileiro que traduz (cena 00:42:27);F3;
->>>>>>> origin/main
+
